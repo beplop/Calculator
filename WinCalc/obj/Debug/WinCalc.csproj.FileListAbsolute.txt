@@ -1,0 +1,9 @@
+C:\BRAINZ\WinCalc\WinCalc\bin\Debug\WinCalc.exe.config
+C:\BRAINZ\WinCalc\WinCalc\bin\Debug\WinCalc.exe
+C:\BRAINZ\WinCalc\WinCalc\bin\Debug\WinCalc.pdb
+C:\BRAINZ\WinCalc\WinCalc\obj\Debug\WinCalc.csprojAssemblyReference.cache
+C:\BRAINZ\WinCalc\WinCalc\obj\Debug\WinCalc.MainForm.resources
+C:\BRAINZ\WinCalc\WinCalc\obj\Debug\WinCalc.Properties.Resources.resources
+C:\BRAINZ\WinCalc\WinCalc\obj\Debug\WinCalc.csproj.GenerateResource.cache
+C:\BRAINZ\WinCalc\WinCalc\obj\Debug\WinCalc.exe
+C:\BRAINZ\WinCalc\WinCalc\obj\Debug\WinCalc.pdb
