@@ -1,2 +1,6 @@
 # Calculator
-Калькулятор на базе Windows Forms
+
+Язык: C#
+
+
+Функционал: калькулятор на базе Windows Forms
